@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BeamTwin"
+abstract: "FSO link digital twin — link budget engine, atmospheric channel (scintillation, fog/aerosol attenuation), ML fade-prediction surrogate with uncertainty output."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/beamtwin"
+license: "AGPL-3.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - optical-link-engineering
